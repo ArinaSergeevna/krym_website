@@ -38,10 +38,10 @@
     height: 100%;
     position: absolute;
     padding: 30px;
-    padding-top: 600px;
-    font-size: 30px;
+    padding-top: 300px;
+    font-size: 20px;
     text-align: left;
-    line-height: 1.5;
+    line-height: 1;
     color: #5085A5;
     transition: .5s;
 }
